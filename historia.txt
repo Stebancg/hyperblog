@@ -2,4 +2,8 @@ Esta es la historia de Andres Carrillo
 
 Andres Carrillo tiene 20 años y nació en Colombia
 
+<<<<<<< HEAD
 Mañana nos enfocaremoscen su vida laboral
+=======
+Mañana nos enfocaremos en su vida laboral.
+>>>>>>> 533a4320b555aa882bff5baa8a6e56c16384047b
